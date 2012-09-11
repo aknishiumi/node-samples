@@ -1,3 +1,6 @@
+// マージして下さいお願いします。
+var hogehoge = "foo" + "bar";
+console.log(hogehoge);
 var http = require('http');
  
 var server = http.createServer(function (req, res) {
